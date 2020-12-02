@@ -1,0 +1,8 @@
+.block1{
+    border: 11px solid black;
+    height: 900px;
+    width: 1600px;
+    background: radial-gradient(circle, rgba(245,4,4,1) 0%, rgba(245,4,4,1) 0%, rgba(245,4,4,1) 21%, rgba(255,255,255,1) 22%);
+    margin: auto;
+}
+
